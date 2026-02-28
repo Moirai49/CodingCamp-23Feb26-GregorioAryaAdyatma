@@ -34,7 +34,7 @@ section {
 
 .banner {
     height: 400px; /* lebih tinggi */
-    background-image: url("images/banner.png");
+    background-image: url("banner.png");
     background-size: cover;
     background-position: center;
 }
@@ -97,4 +97,5 @@ form {
         flex-direction: column;
         gap: 10px;
     }
+
 }
